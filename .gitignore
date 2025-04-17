@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+__pycache__/Contact.cpython-312.pyc
+__pycache__/ContactList.cpython-312.pyc
