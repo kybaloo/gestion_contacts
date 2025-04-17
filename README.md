@@ -1,5 +1,4 @@
 # Contact Manager
-The Contact Manager is a simple Python application for managing your contacts. With features such as adding, modifying, deleting, and searching for contacts, this application makes it easy to handle your contact information.
 
 ## Description
 The Contact Manager is a Python application that allows you to manage a list of contacts. You can add, modify, delete, and search for contacts, as well as sort the contact list. The application is designed to be simple and intuitive, making it easy to manage your personal or professional contacts.
